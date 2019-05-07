@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "Gateway-Discovery": "https://github.com/sms-staging-version/Gateway-Discovery.git",
+    "InterviewService": "https://github.com/sms-staging-version/InterviewService.git",
+    "SandBox": "https://github.com/sms-staging-version/SandBox.git",
+    "SurveyService": "https://github.com/sms-staging-version/SurveyService.git",
+    "user-interface": "https://github.com/sms-staging-version/user-interface.git",
+    "UserService": "https://github.com/sms-staging-version/UserService.git"
+  }
+}
